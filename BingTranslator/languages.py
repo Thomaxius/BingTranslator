@@ -1,11 +1,14 @@
 languages = {
+	"Afrikans": "af",
 	"Arabic": "ar",
+	"Bosnian (Latin)": "bs-Latn",
 	"Bulgarian": "bg",
 	"Catalan": "ca",
 	"Chinese Simplified": "zh-CHS",
 	"Chinese Traditional": "zh-CHT",
+	"Croatian": "hr",
 	"Czech": "cs",
-	"Danish": "da",	
+	"Danish": "da",
 	"Dutch": "nl",
 	"English": "en",
 	"Estonian": "et",
@@ -21,6 +24,7 @@ languages = {
 	"Indonesian": "id",
 	"Italian": "it",
 	"Japanese": "ja",
+	"Kiswahili": "sw",
 	"Klingon": "tlh",
 	"Klingon (pIqaD)":"tlh-Qaak",
 	"Korean": "ko",
@@ -32,8 +36,11 @@ languages = {
 	"Persian": "fa",
 	"Polish": "pl",
 	"Portuguese": "pt",
+	"Querétaro Otomi": "otq",
 	"Romanian": "ro",
 	"Russian": "ru",
+	"Serbian (Cyrillic)": "sr-Cyrl",
+	"Serbian (Latin)": "'sr-Latn",
 	"Slovak": "sk",
 	"Slovenian": "sl",
 	"Spanish": "es",
@@ -43,5 +50,6 @@ languages = {
 	"Ukrainian": "uk",
 	"Urdu": "ur",
 	"Vietnamese": "vi",
-	"Welsh": "cy"
+	"Welsh": "cy",
+	"Yucatec Maya": "yua"
 }
